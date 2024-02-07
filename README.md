@@ -1,4 +1,4 @@
-# Phase 3 development on warehpuse project
+# Phase 3 development on warehouse project
 
   
     
