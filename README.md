@@ -1,4 +1,4 @@
-here are exercises to practice creating single-column, multi-column, and unique indexes in PostgreSQL:
+Here are exercises to practice creating single-column, multi-column, and unique indexes in PostgreSQL:
 
 Single Column Index Exercise:
 
